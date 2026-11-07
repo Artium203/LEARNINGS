@@ -1,0 +1,12 @@
+  Y    [PI]       Y    [IP]       Y    [PI]       Y       Y 
+   [IP]       T    [iO]       T    [Oi]       T    [iO]       T 
+      T    [iO]       r    [IY]       r    [YI]       r    [YI] 
+      r       r    [YI]       E    [Oy]       E    [Oy]       E 
+   [yi]       E       E       D   [yiG]       H    [JY]    [PI] 
+      Y    [PI]       Y   [PIH]    [YG]       g    [HY]   [PIG] 
+   [gT]       D       g    [iO]       T    [Oi]       T   [GOi] 
+   [gT]       D    [TG]   [iOg]    [rD]       S       a    [IY] 
+      r    [YI]       r    [YI]       r       r       a   [SIY] 
+      D    [Eg]    [Oy]    [EH]    [yO]       E       G    [yi] 
+      E    [dE]    [yi]    [YD]    [IP]       Y    [sO]       Y 
+   [PS]       Y       i       E       i   [IYE] 

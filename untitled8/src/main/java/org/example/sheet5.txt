@@ -1,0 +1,38 @@
+ d
+ [8d] D s d [8d] D s d
+ [7d] D a d [7d] D a s
+ [%d] D h s [%d] D h a
+ [$s] D G a [$s] D G d
+ [8d] D s d [8d] D s d
+ [7d] D a d [7d] D a s
+ [%d] D h s [%d] D h a
+ [$s] D G a [$s] D G d
+ [(8wd] D s [(8wd] d D [(8ws] d
+ [(Q7d] D a [(Q7d] d D [(Q7a] s
+ [%(8d] D h [%(8s] d D [%(8h] a
+ [$(Q8s] D G [$(Q8a] s D [8$(QG] d
+ [(8wd] D s [(8wd] d D [(8ws] d
+ [(Q7d] D a [(Q7d] d D [(Q7a] s
+ [%(8d] D h [%(8s] d D [%(8h] a
+ [$(Q8s] D G [$(Q8a] s D [8$(QG]
+ [pk] l j k k l j k
+ [Ok] l H k k l H k
+ [ik] l x j k l x H
+ [Yj] l Z H j l Z k
+ [pk] l j k k l j k
+ [Ok] l H k k l H k
+ [ik] l x j k l x H
+ [Yj] l Z H j l Z k
+ [6upa] 8 [0s] 8 [ep] 8 [0a] 8 [6a] 8 [0s] 8 [ep] 8 [0a] 8 [%YOa] 8 [(s] 8 [WO] 8 [(a] 8 [%a] 8 [(s] 8 [WO] 8 [(p] 8
+ [4ia] 6 [8s] 6 [qf] 6 [8p] 6 [4a] 6 [8s] 6 [qf] 6 [8O] 6 [@Yp] 6 [8s] 6 [(D] 6 [8O] 6 [@p] 6 [8s] 6 [(D] 6 [8a] 6
+ [6upa] 8 [0s] 8 [ep] 8 [0a] 8 [6a] 8 [0s] 8 [ep] 8 [0a] 8 [%YOa] 8 [(s] 8 [WO] 8 [(a] 8 [%a] 8 [(s] 8 [WO] 8 [(p] 8
+ [4ia] 6 [8s] 6 [qf] 6 [8p] 6 [4a] 6 [8s] 6 [qf] 6 [8O] 6 [@Yp] 6 [8s] 6 [(D] 6 [8O] 6 [@p] 6 [8s] 6 [(D] 6 [8a] 6
+ [1od] D [@58s] d d [5D] [1s] [5d]
+ [@I7d] D [(Qra] d d [7D] [Qa] [(s]
+ [%Od] D [@%(8h] s d [@D] [%h] [@a]
+ [$Is] D [tQYIG] a s [$D] [tQYIG] [18d]
+ [1od] D [@58s] d d [5D] [1s] [5d]
+ [@I7d] D [(Qra] d d [7D] [Qa] [(s]
+ [%Od] D [@%(8h] s d [@D] [%h] [@a]
+ [$Is] D [tQYIG] a s [$D] [tQYIG] d
+d D s
